@@ -6,7 +6,15 @@ uses
   Windows, Classes, Controls, Forms,SysUtils,StdCtrls, Buttons,LYEdit,
   frxClass, frxDesgn, frxCrypt, frxGZip, frxDCtrl, frxDMPExport,
   frxGradient, frxChBox, frxCross, frxRich, frxOLE, frxBarcode, frxPreview,
-  ExtCtrls, frxDock, frxDesgnCtrls, frxCtrls, frxDBSet;
+  ExtCtrls, frxDock, frxDesgnCtrls, frxCtrls, frxDBSet, fs_synmemo,
+  fs_tree, fs_iinirtti, fs_imenusrtti, fs_idialogsrtti, fs_iextctrlsrtti,
+  fs_iformsrtti, fs_igraphicsrtti, fs_iclassesrtti, fs_ibasic, fs_ijs,
+  fs_icpp, fs_ipascal, fs_iinterpreter, frxChart, frxDBXComponents,
+  frxBDEComponents, frxADOComponents, frxExportCSV, frxExportText,
+  frxExportImage, frxExportRTF, frxExportHTML, frxExportPDF, frxExportSVG,
+  frxExportHTMLDiv, frxExportXLSX, frxExportPPTX, frxExportDOCX,
+  frxExportBIFF, frxExportDBF, frxExportODF, frxExportTXT, frxExportMail,
+  frxExportXML, frxExportXLS;
 
 type
   TForm1 = class(TForm)
